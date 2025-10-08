@@ -21,7 +21,7 @@ export const UserList = ({users}: UserListPropsType) => {
               </li>
             )
           )}
-          )
+
         </ul>
       </div>
     )
